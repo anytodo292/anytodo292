@@ -8,11 +8,6 @@
 - 👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.
 - 😃 Have a Project in your Mind?
 - ✨ I will implement your great ideas to be live perfectly.
-
-#### CONTACT INFORMATION
-
-- ☎️ +54 1130525092
-- 📩 abetakeo6@gmail.com
    
 #### MY STACKS
 - Golang, Gorilla
